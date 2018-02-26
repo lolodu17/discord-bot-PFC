@@ -1,9 +1,11 @@
 # discord-bot-PFC
+# Bot Discord : Pierre Feuille Ciseaux (Shifumi)
+
 Jeu du "**Pierre-Feuille-Ciseaux**" implémenté avec *discord.js* ; Battez-vous contre le bot !
 
 N'oubliez pas d'entrer le *token* de votre bot; sinon il ne se lancera jamais !
 
-**Les commandes :**
+# **Les commandes :**
 
 ```
 !pfc pierre » Choisir "Pierre"
