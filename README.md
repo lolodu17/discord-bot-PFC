@@ -1,5 +1,5 @@
 # discord-bot-PFC
-# Bot Discord : Pierre Feuille Ciseaux (Shifumi)
+**Bot Discord : _Pierre Feuille_ Ciseaux (Shifumi)**
 
 Jeu du "**Pierre-Feuille-Ciseaux**" implémenté avec *discord.js* ; Battez-vous contre le bot !
 
