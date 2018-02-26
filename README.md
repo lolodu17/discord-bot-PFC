@@ -3,7 +3,7 @@
 
 Jeu du "**Pierre-Feuille-Ciseaux**" implémenté avec *discord.js* ; Battez-vous contre le bot !
 
-N'oubliez pas d'entrer le *token* de votre bot; sinon il ne se lancera jamais !
+N'oubliez pas d'entrer le *token* de votre bot; sinon il ne se lancera jamais ! (voir ligne **103**)
 
 # **Les commandes :**
 
